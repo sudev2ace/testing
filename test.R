@@ -1,0 +1,1 @@
+print("This is my first Rscript and now its available in GitHub!")
